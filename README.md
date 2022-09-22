@@ -5,8 +5,8 @@
 - 🧑‍🎓 Estudando: <b>Análise e Desenvolvimento de Sistemas - UNIP - 3º Semestre</b>
  
 <div>
-<img align="center" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Luan-Eduardo-Silva&show_icons=true" />
-<img align="center" height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Eduardo-Silva" />
+<img align="center" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=luan-eduardo-moi&show_icons=true" />
+<img align="center" height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-eduardo-moi" />
 </div>
 
 <hr/>
