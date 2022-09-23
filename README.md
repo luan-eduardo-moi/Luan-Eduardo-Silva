@@ -15,8 +15,15 @@
 
 <div>
 <h4>📘 Projetos Em Andamento:</h4>
+
+<a href="https://www.linkedin.com/in/luaneduardosilva" target="blanck_">
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luan-eduardo-moi&repo=calculadora-de-valor-hora&theme=dark" />
+</a>
+
+<a href="https://www.linkedin.com/in/luaneduardosilva" target="blanck_">
 <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luan-eduardo-moi&repo=Sistema-Olimpiadas-2024&theme=dark" />
+</a>
+
 </div>
 
 <hr/>
