@@ -1,8 +1,10 @@
 ### Olá, boas vindas ao meu perfil! 👋
 
-- 🔭 Atualmente estou trabalhando em: <b>Webdesign Autônomo</b>
+🌟 <b>Skills:</b> Web Developer, HTML 5, Css 3, Boostrap, protótipos, Wix e WordPress (Elementor)</b>
+<hr>
 
-- 🧑‍🎓 Estudando: <b>Análise e Desenvolvimento de Sistemas - UNIP - 3º Semestre</b>
+🌟 <b>Estudando:</b> <b>Análise e Desenvolvimento de Sistemas - UNIP - Último Semestre</b>
+<hr>
  
 <div>
 <img align="center" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=luan-eduardo-moi&show_icons=true" />
